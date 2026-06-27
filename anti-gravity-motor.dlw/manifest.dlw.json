@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-ANTI_GRAVITY_MOTOR",
+  "name": "ANTI-GRAVITY MOTOR TOOLKIT",
+  "universe": "GURUTVA",
+  "moniker": "⟦ANTI-GRAVITY MOTOR TOOLKIT:anti-gravity-motor:92101d⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "92101da387de7a42d7447f9a264e9b45298f1c602138f2b49a4e0dc757b16241",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
